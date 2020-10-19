@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Big Data
+data/stocks_latest/dividends_latest.csv
+data/stocks_latest/earnings_latest.csv
+data/stocks_latest/stock_prices_latest.csv
