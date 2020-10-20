@@ -6,18 +6,20 @@ Project 1 Proposal
 
 - Topic: Dividend-Oriented Stocks
 - Databases used: Kaggle, Yahoo Finance API
-- 
+
 ### Questions to answer:
 - What are the top 5 highest-returning dividend stocks in the given dataset (monthly vs. quarterly)?
 - What are the quantifiable impacts on stocks between March 2020 to the present?
 - What are the top stocks in terms of overall price growth? What is the overlap between dividend growth and overall price growth?
 
-### Title: Taking Stock- Dividends v Growth
-### Outline: Our presentation will be focused on the performance statistics of dividend stocks and overall stock growth metrics in a 2-year timespan.
-### Definitions:
+Title: Taking Stock- Dividends v Growth
+
+Outline: Our presentation will be focused on the performance statistics of dividend stocks and overall stock growth metrics in a 2-year timespan.
+
+Definitions:
 - Dividend-Stock: stock prices only matter during initial buy and liquidation
 - Liquidation: trying to convert stock to actual currency.
-- Variation: In dividend stocks, a consistent stock is, for practical purposes, one that isn&#39;t losing money over the course of its existence.
+- Variation: In dividend stocks, a consistent stock is, for practical purposes, one that isn't losing money over the course of its existence.
 
 ### Scope/Limits:
 - Where: U.S.(NASDAQ, NYSE)
@@ -36,5 +38,5 @@ Project 1 Proposal
 - Find the overlap between top dividend stocks and top growth stocks
 
 ### Roles:
-- Clark [guy typing this]: My strengths are more on the side of what I describe as &quot;What humans will read&quot;. So, while I will do my best to help in coding through our datasets, my input will be best focused in the written analysis and how visualizations will appear for presentation.
-- Beverly: Beverly will be more focused on the actual data analysis of the links provided (with partner input, of course). This is a source of interest for both of us, and I&#39;m very happy to be working together.
+- Clark: Strengths are more on the side of what I describe as "What humans will read". So, while I will do my best to help in coding through our datasets, my input will be best focused in the written analysis and how visualizations will appear for presentation.
+- Beverly: Beverly will be more focused on the actual data analysis of the links provided. 
