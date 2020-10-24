@@ -10,7 +10,7 @@ Project 1 Proposal
 ### Questions to answer:
 - What are the top 5 highest-returning dividend stocks in the given dataset (monthly vs. quarterly)?
     
-        Null: There will be no significant correlation between monthly and quarterly performing stocks.
+        Null: If [definition of significant performance],there will be no significant correlation between monthly and quarterly performing stocks.
     
         Alternative: There will be a significant correlation between monthly and quarterly performing stocks. 
 
@@ -18,13 +18,13 @@ Project 1 Proposal
     
         Null: If a stock falls between March 2020-present, then there will be no significant impact from COVID.
     
-        Alternative: If a stock falls between March 2020-present, then that will indicate some impact from COVID. 
+        Alternative: If a stock falls between March 2020-present, then that will indicate the onset of COVID created a drop in [set percent amount in stock price]. 
 
 - What are the top stocks in terms of overall price growth? What is the overlap between dividend growth and overall price growth?
 
         Null: If a stock is a dividend stock, there will be no significant correlation to overall price growth.
     
-        Alternative: If a stock is a dividend stock, there will be a significant correlation to overall price growth. 
+        Alternative: If a stock is a dividend stock, there will be a [defined amount of percent growth] to overall price growth. 
 
 ### Hypotheses:
 
