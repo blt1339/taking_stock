@@ -8,23 +8,31 @@ Project 1 Proposal
 - Databases used: Kaggle, Yahoo Finance API
 
 ### Questions to answer:
-- What are the top 5 highest-returning dividend stocks in the given dataset (monthly vs. quarterly)?
-    
-        Null: There will be no significant correlation between monthly and quarterly performing stocks.
-    
-        Alternative: There will be a significant correlation between monthly and quarterly performing stocks. 
+- What are the top 5 highest-returning dividend stocks in the given dataset (monthly)?.
+    - no hypothesis here... just exploratory
 
 - What are the quantifiable impacts on stocks between March 2020 to the present?
-    
+    - what does "falls" mean below?
+    - alt hypothesis doesn't match structure of null hypothesis
+        - try using this format:
+            - Null:
+                If [factor 1 is related to factor 2], then [a measurable amount of factor 1 will NOT cause more or less of factor 2]
+            - Alt:
+                If [factor 1 is related to factor 2], then [a measurable amount of factor 1 will cause more or less of factor 2]
+
+
         Null: If a stock falls between March 2020-present, then there will be no significant impact from COVID.
     
-        Alternative: If a stock falls between March 2020-present, then that will indicate some impact from COVID. 
+        Alternative: If a stock falls between March 2020-present, then that will indicate the onset of COVID created a drop in [set percent amount in stock price]. 
 
-- What are the top stocks in terms of overall price growth? What is the overlap between dividend growth and overall price growth?
+- What are the top stocks in terms of overall price growth? 
+    - sentence structures should mirror each other like:
+        - alternative: If a stock is not a dividend stock, there will be no significant correlation to overall price growth.
+        - null: If a stock is a dividend stock, there will be significant correlation to overall price growth.
 
         Null: If a stock is a dividend stock, there will be no significant correlation to overall price growth.
     
-        Alternative: If a stock is a dividend stock, there will be a significant correlation to overall price growth. 
+        Alternative: If a stock is a dividend stock, there will be a [defined amount of percent growth] to overall price growth. 
 
 ### Hypotheses:
 
