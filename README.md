@@ -49,3 +49,13 @@ Definitions:
 ### Roles:
 - Clark: Strengths are more on the side of what I describe as "What humans will read". So, while I will do my best to help in coding through our datasets, my input will be best focused in the written analysis and how visualizations will appear for presentation.
 - Beverly: Beverly will be more focused on the actual data analysis of the links provided. 
+
+###Conclusions
+
+Question 1:
+
+Between the top 10 monthly dividend stocks and monthly dividend yields, there’s no overlap when comparing them in the merged data.
+
+Question 2: 
+
+There was an 8.70% drop for dividend stocks in our pre-COVID range. Yield, however, saw a 5.88% percent increase in our After-COVID range.
