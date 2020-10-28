@@ -12,9 +12,9 @@ Project 1 Proposal
 
 - What are the quantifiable impacts on stocks between March 2020 to the present?
 
-    Null: If the defined COVID range (March 2020-present) does not impact dividend stock payments, then there will be not be a dividend stock percentage change exceeding a factor of 5 percent. 
+    Null: If the defined After-COVID range (March 2020-present) does not impact dividend stock payments, then there will be not be a dividend stock percentage change exceeding a factor of 5 percent. 
     
-    Alternative: If the defined COVID range (March 2020-present) does impact dividend stock payments, then there will be a dividend stock percentage change exceeding a factor of 5 percent. 
+    Alternative: If the defined After-COVID range (March 2020-present) does impact dividend stock payments, then there will be a dividend stock percentage change exceeding a factor of 5 percent. 
 
 
 ### Hypotheses:
@@ -58,4 +58,4 @@ Between the top 10 monthly dividend stocks and monthly dividend yields, there’
 
 Question 2: 
 
-There was an 8.70% drop for dividend stocks in our pre-COVID range. Yield, however, saw a 5.88% percent increase in our After-COVID range.
+There was an 8.70% drop for dividend stocks in our pre-COVID range. Yield, however, saw a 5.88% percent increase in our After-COVID range. Our findings for dividend stock change correspond to our alternative hypothesis. 
